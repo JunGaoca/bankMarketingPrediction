@@ -28,9 +28,9 @@ If precision is the priority which means minimizing wasted marketing efforts on 
 - **Refine customer segmentation** by utilizing feature importance. Key factors such as call duration and previous campaign success can help tailor marketing efforts to the right audience.
 
 
-## Conclusions and Next steps
+## Conclusions and Next Steps
 This project employs the CRISP-DM framework to evaluate and refine four classifers for predicting client subscription to a term deposit. The most effective model is Logistic Regression, offering an optimal balance of F1-score, training efficiency, and interpretability.
 
-#### Next steps
+#### Next Steps
 - Balancing the Dataset: Address class imbalance using SMOTE and explore additional balancing techniques.
 - Model Ensembling: Investigate stacking or bagging methods (e.g., Random Forest) to improve the F1-score and reduce prediction variance.
